@@ -1,0 +1,179 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Backend Engineer",
+      "detail": "Responsible for server-side web application logic and integration of the work front-end developers do."
+    },
+    {
+      "id": 2,
+      "title": "Frontend Engineer",
+      "detail": "Responsible for implementing visual elements that users see and interact with in a web application."
+    },
+    {
+      "id": 3,
+      "title": "Full Stack Developer",
+      "detail": "Works on both the front-end and back-end of applications, handling projects that involve databases, building user-facing websites, or even working with clients during the planning phase of projects."
+    },
+    {
+      "id": 4,
+      "title": "DevOps Engineer",
+      "detail": "Works with software developers, system operators, and other production IT staff to oversee code releases."
+    },
+    {
+      "id": 5,
+      "title": "Data Scientist",
+      "detail": "Uses statistical methods to analyze data and generate useful business reports."
+    },
+    {
+      "id": 6,
+      "title": "Cyber Security Analyst",
+      "detail": "Protects an organization’s computer systems and networks from various cyber threats."
+    },
+    {
+      "id": 7,
+      "title": "Network Engineer",
+      "detail": "Responsible for designing, implementing, monitoring, and managing the local and wide area networks of an organization."
+    },
+    {
+      "id": 8,
+      "title": "Systems Administrator",
+      "detail": "Manages and maintains an organization's IT infrastructure."
+    },
+    {
+      "id": 9,
+      "title": "Database Administrator",
+      "detail": "Responsible for the performance, integrity, and security of a database."
+    },
+    {
+      "id": 10,
+      "title": "Machine Learning Engineer",
+      "detail": "Designs and develops machine learning and deep learning systems."
+    },
+    {
+      "id": 11,
+      "title": "Cloud Solutions Architect",
+      "detail": "Designs and manages cloud environments and services."
+    },
+    {
+      "id": 12,
+      "title": "Mobile App Developer",
+      "detail": "Creates software for mobile devices."
+    },
+    {
+      "id": 13,
+      "title": "Product Manager",
+      "detail": "Oversees the development and delivery of products."
+    },
+    {
+      "id": 14,
+      "title": "UI/UX Designer",
+      "detail": "Designs user interfaces and user experiences for digital products."
+    },
+    {
+      "id": 15,
+      "title": "Quality Assurance Engineer",
+      "detail": "Ensures that software products meet quality standards."
+    },
+    {
+      "id": 16,
+      "title": "IT Support Specialist",
+      "detail": "Provides technical support to users."
+    },
+    {
+      "id": 17,
+      "title": "Business Analyst",
+      "detail": "Analyzes business needs and develops solutions."
+    },
+    {
+      "id": 18,
+      "title": "Technical Writer",
+      "detail": "Creates manuals, guides, and other documentation for technical products."
+    },
+    {
+      "id": 19,
+      "title": "Security Engineer",
+      "detail": "Designs and implements security systems to protect an organization’s IT infrastructure."
+    },
+    {
+      "id": 20,
+      "title": "Penetration Tester",
+      "detail": "Tests computer systems, networks, and web applications to find security vulnerabilities."
+    },
+    {
+      "id": 21,
+      "title": "Software Architect",
+      "detail": "Makes high-level design choices and dictates technical standards, including software coding standards, tools, and platforms."
+    },
+    {
+      "id": 22,
+      "title": "Game Developer",
+      "detail": "Designs and creates video games for computers, consoles, and mobile devices."
+    },
+    {
+      "id": 23,
+      "title": "Blockchain Developer",
+      "detail": "Develops and optimizes blockchain protocols, crafts the architecture of blockchain systems, and develops smart contracts and web apps using blockchain technology."
+    },
+    {
+      "id": 24,
+      "title": "Site Reliability Engineer",
+      "detail": "Works to ensure that an organization's website and applications are reliable and perform well."
+    },
+    {
+      "id": 25,
+      "title": "Embedded Systems Engineer",
+      "detail": "Designs and develops embedded systems, which are specialized computing systems that perform dedicated functions."
+    },
+    {
+      "id": 26,
+      "title": "IT Project Manager",
+      "detail": "Plans, executes, and closes projects related to IT."
+    },
+    {
+      "id": 27,
+      "title": "Data Analyst",
+      "detail": "Interprets data and turns it into information which can offer ways to improve a business."
+    },
+    {
+      "id": 28,
+      "title": "Cyber Security Consultant",
+      "detail": "Provides expert advice and solutions to help organizations protect their IT systems and data from cyber threats."
+    },
+    {
+      "id": 29,
+      "title": "Artificial Intelligence Engineer",
+      "detail": "Develops AI models and algorithms to solve complex problems."
+    },
+    {
+      "id": 30,
+      "title": "Robotics Engineer",
+      "detail": "Designs, builds, and maintains robots."
+    },
+    {
+      "id": 31,
+      "title": "Technical Support Engineer",
+      "detail": "Provides technical support and troubleshooting for IT systems and software."
+    },
+    {
+      "id": 32,
+      "title": "IT Auditor",
+      "detail": "Evaluates the information systems and IT infrastructure of an organization to ensure compliance with standards and regulations."
+    },
+    {
+      "id": 33,
+      "title": "Network Security Engineer",
+      "detail": "Designs and implements secure network solutions to protect against cyber threats."
+    },
+    {
+      "id": 34,
+      "title": "Software Tester",
+      "detail": "Tests software to identify bugs and issues before the product is released."
+    },
+    {
+      "id": 35,
+      "title": "Chief Information Officer (CIO)",
+      "detail": "Oversees the IT strategy and implementation for an organization."
+    }
+  ]
+}
